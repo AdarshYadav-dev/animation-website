@@ -2,7 +2,7 @@
 
 This is a simple, responsive, and animated front-end website built using HTML5, CSS3, and JavaScript. The project includes two fully-designed web pages featuring scroll animations, hover effects, transitions, and mobile responsiveness.
 
-> Note: This website is currently a work-in-progress. I will continue to update it regularly and enhance its design and functionality..
+> Note: This website is currently a work-in-progress. I will continue to update it regularly and enhance its design and functionality.
 
 ---
 
