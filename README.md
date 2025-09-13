@@ -1,4 +1,4 @@
-# Animation Website -
+# Animation Website :-
 
 This is a simple, responsive, and animated front-end website built using HTML5, CSS3, and JavaScript. The project includes two fully-designed web pages featuring scroll animations, hover effects, transitions, and mobile responsiveness.
 
